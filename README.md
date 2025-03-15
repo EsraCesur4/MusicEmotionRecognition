@@ -21,3 +21,7 @@ The generated dataset consists of track features that describe the audio propert
 😊 valence – How happy or sad a song feels (0 = sad, 1 = happy).  
 🎭 mood – The mood label (happy, sad, angry, chill).  
 
+# **Models Used:**
+
+Random Forest Classifier (RFC): n_estimators=100, max_depth=None, random_state=42
+XGBoost Classifier: n_estimators=100, max_depth=6, learning_rate=0.1, objective='multi:softmax'
