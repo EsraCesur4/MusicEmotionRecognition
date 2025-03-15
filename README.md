@@ -32,7 +32,12 @@ XGBoost performs better, achieving a more balanced class distribution and fewer 
 Random Forest, while effective, struggles with certain classes, leading to a higher rate of incorrect predictions.  
 If prioritizing accuracy and balanced performance → XGBoost is the better choice.  
 
-![Screenshot 2025-03-15 154701](https://github.com/user-attachments/assets/806b0cc9-6ce8-43bc-b2e9-10d70401cd3f)
-![Screenshot 2025-03-15 154650](https://github.com/user-attachments/assets/cfb1b9b4-1775-41ce-89a0-368b087c145d)
-![Screenshot 2025-03-15 154639](https://github.com/user-attachments/assets/e49c3238-f95b-43c4-8a12-d03d7076b8ce)
-![Screenshot 2025-03-15 154622](https://github.com/user-attachments/assets/ae9e6464-25dd-401f-a7ae-767d4e8305c0)
+Class 0: Represents Angry or high-energy, intense emotions.
+Class 1: Represents Happy or upbeat, positive emotions.
+Class 2: Corresponds to Sad or melancholic emotions.
+Class 3: Represents Chill or relaxed, soothing emotions.
+
+![Screenshot 2025-03-15 154622](https://github.com/user-attachments/assets/eca7d2a3-4490-4eea-b88e-43d6a566de47)
+![Screenshot 2025-03-15 154639](https://github.com/user-attachments/assets/bb0cf192-4bd9-4233-a8d4-9fad4b68b01b)
+![Screenshot 2025-03-15 154701](https://github.com/user-attachments/assets/9b3fa6dd-18c9-49fb-89fd-da9602f8747b)
+![Screenshot 2025-03-15 154650](https://github.com/user-attachments/assets/8c37edde-8aa2-470c-9147-121fb5256cbe)
