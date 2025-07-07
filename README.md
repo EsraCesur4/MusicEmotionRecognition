@@ -4,7 +4,7 @@
 - An attempt at Music Emotion Recognition for the kaggle competition @ https://www.kaggle.com/competitions/kcl-artificial-intelligence-competition-22-23
 
 # 🎵 Spotify Mood Dataset Generator 🎵
-This project uses the **Spotipy** library to fetch track features from Spotify playlists categorized by mood. Whether you're a data scientist, music lover, or just curious about the science of sound, this dataset gives you insights into what makes a song feel happy, sad, chill, or angry.
+This project uses the **Spotipy** library to fetch track features from Spotify playlists categorized by mood. 
 
 # What's in the Dataset?
 The generated dataset consists of track features that describe the audio properties of songs. Here’s what each column means:
